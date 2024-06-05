@@ -1,10 +1,10 @@
 {
-  "name": "@varcon/release",
+  "name": "@varcons/release",
   "type": "module",
   "version": "0.0.0",
   "description": "release all packages and generate changelogs",
   "keywords": [
-    "varcon",
+    "varcons",
     "release",
     "changelog"
   ],
@@ -12,10 +12,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yg-alt/varcon-release.git"
+    "url": "git+https://github.com/yg-alt/varcons-release.git"
   },
   "bugs": {
-    "url": "https://github.com/yg-alt/varcon-release"
+    "url": "https://github.com/yg-alt/varcons-release"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -78,5 +78,5 @@
     "picocolors": "^1.0.0",
     "semver": "^7.5.4"
   },
-  "homepage": "https://github.com/yg-alt/varcon-release#readme"
+  "homepage": "https://github.com/yg-alt/varcons-release#readme"
 }
