@@ -12,9 +12,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yg-alt/varcon-release"
+    "url": "git+https://github.com/yg-alt/varcon-release.git"
   },
-  "bugs": "https://github.com/yg-alt/varcon-release",
+  "bugs": {
+    "url": "https://github.com/yg-alt/varcon-release"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -75,5 +77,6 @@
     "nanospinner": "^1.1.0",
     "picocolors": "^1.0.0",
     "semver": "^7.5.4"
-  }
+  },
+  "homepage": "https://github.com/yg-alt/varcon-release#readme"
 }
