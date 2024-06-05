@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "ignorePatterns": [
+    "dist"
+  ],
+  "extends": [
+    "@varcon"
+  ]
+}
